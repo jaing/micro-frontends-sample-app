@@ -52,7 +52,7 @@ stories/example.web-component.stories.js
 ```
 
 ## Repository folder structure
-I decided to go with mono repo. We keep every micro front end in one place. It make sense to have a separate repository for a big UI app but when you have a multiple small applications why not to keep them in one place? 
+I decided to go with monorepo. We keep every micro frontend in one place. It make sense to have a separate repository for a big UI app but when you have a multiple small applications why not to keep them in one place? 
 
  * **scripts** - we keep some helpful scripts in here like one that is creating a micro frontend template so you can quickly start building a new widget.
  * **stories** - all micro frontends are documented in a storybook
