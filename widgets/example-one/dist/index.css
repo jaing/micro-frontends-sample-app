@@ -1,0 +1,7 @@
+.example-one {
+  font-size: 1.4rem; }
+  .example-one button {
+    cursor: pointer;
+    background: #000;
+    color: #fff;
+    padding: .5rem 2rem; }
