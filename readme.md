@@ -6,6 +6,9 @@ I already see that there are multiple definitions of what micro frontends are an
 
 The current trend is to build a feature-rich and powerful browsers apps. In many cases they sits on top of a micro service architecture. Over time the UI layer grows and gets more and more difficult to maintain. We can call it a Frontend Monolith. The idea behind Micro FrontEnds is to think about a website / web app as a composition of features. Each of them is responsible for one particular action. Simplifying you can have a one variant of a nice toy castle or you can have a box of lego bricks and build x number of castles, houses, cars etc.
 
+## Live example
+[Storybook](https://jaing.github.io/micro-frontends-sample-app/index.html?path=/story/example-story--example-one)
+
 ## How to start
 To start a storybook with examples.
 
